@@ -1,0 +1,17 @@
+{
+"companyName": "GDUT",
+"productName": "Ocean Breaker",
+"productVersion": "0.1",
+"dataUrl": "Ocean Breaker.data.unityweb",
+"wasmCodeUrl": "Ocean Breaker.wasm.code.unityweb",
+"wasmFrameworkUrl": "Ocean Breaker.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Ocean Breaker.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.2f1"
+}
